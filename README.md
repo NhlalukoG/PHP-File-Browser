@@ -1,9 +1,10 @@
 # PHP-File-Browser
 PHP Web Server File Browser
 
-![image](https://user-images.githubusercontent.com/17850732/177888093-1acd53f6-68cc-4ce3-aa53-28799f4ea115.png)
+![image](https://user-images.githubusercontent.com/17850732/177888438-3a61ce23-0eac-4def-bcde-78c702f02009.png)
 
-This is a PHP Based file manager.
+
+This is a PHP Based file manager/browser.
 
 Reason I created this was to be able to freely browse my server's file system straight from my phone.
 
@@ -16,3 +17,5 @@ Functionality
 - Upload
 - Delete
 - View files (Text & Media files)
+
+![image](https://user-images.githubusercontent.com/17850732/177888471-0ec42648-5935-476e-9580-b77b3d6c6124.png)
